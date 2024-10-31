@@ -1,0 +1,106 @@
+User_ID,Cust_name,Product_ID,Gender,Age Group,Age,Marital_Status,State,Zone,Occupation,Product_Category,Orders,Amount,Status
+101,Alice,1001,Female,18-25,23,Single,California,West,Student,Electronics,2,300,Delivered
+102,Bob,1002,Male,26-35,30,Married,Texas,South,Engineer,Books,1,20,Pending
+103,Charlie,1003,Male,36-45,40,Married,Florida,South,Teacher,Clothing,3,150,Delivered
+104,Diana,1004,Female,46-55,50,Single,New York,East,Doctor,Beauty,2,80,Cancelled
+105,Eve,1005,Female,18-25,22,Single,Nevada,West,Student,Sports,1,60,Delivered
+106,Customer_106,1030,Female,46-55,19,Married,Arizona,West,Teacher,Toys,2,336,Cancelled
+107,Customer_107,1056,Male,26-35,36,Single,Texas,West,Teacher,Clothing,3,247,Delivered
+108,Customer_108,1035,Male,26-35,35,Single,Florida,South,Artist,Books,5,642,Cancelled
+109,Customer_109,1050,Female,26-35,55,Single,Florida,South,Manager,Toys,3,942,Delivered
+110,Customer_110,1043,Female,46-55,50,Married,Arizona,East,Self-employed,Clothing,5,969,Pending
+111,Customer_111,1063,Male,18-25,39,Single,Arizona,North,Self-employed,Toys,4,816,Cancelled
+112,Customer_112,1045,Female,55+,45,Single,Illinois,South,Engineer,Beauty,5,254,Delivered
+113,Customer_113,1064,Female,36-45,27,Married,Florida,East,Engineer,Home,1,974,Delivered
+114,Customer_114,1011,Female,36-45,39,Married,New York,East,Engineer,Sports,2,615,Cancelled
+115,Customer_115,1049,Male,55+,21,Single,Ohio,West,Manager,Books,3,437,Pending
+116,Customer_116,1093,Male,55+,55,Married,Illinois,Central,Manager,Sports,5,751,Delivered
+117,Customer_117,1095,Female,55+,59,Single,New York,West,Engineer,Electronics,1,37,Pending
+118,Customer_118,1074,Male,55+,57,Single,Florida,East,Engineer,Books,4,855,Delivered
+119,Customer_119,1050,Male,26-35,45,Single,Texas,Central,Manager,Beauty,5,327,Pending
+120,Customer_120,1097,Female,18-25,50,Married,Arizona,North,Teacher,Home,2,83,Delivered
+121,Customer_121,1073,Female,26-35,48,Married,Illinois,North,Student,Sports,5,533,Cancelled
+122,Customer_122,1011,Female,46-55,20,Married,Texas,South,Artist,Beauty,3,564,Delivered
+123,Customer_123,1025,Female,26-35,25,Single,California,West,Doctor,Books,1,715,Cancelled
+124,Customer_124,1029,Male,46-55,22,Single,Texas,North,Artist,Beauty,1,333,Delivered
+125,Customer_125,1092,Male,18-25,20,Single,Nevada,Central,Student,Books,1,924,Pending
+126,Customer_126,1095,Female,46-55,40,Single,Arizona,West,Student,Electronics,1,324,Delivered
+127,Customer_127,1078,Female,26-35,55,Married,Florida,South,Self-employed,Clothing,4,795,Pending
+128,Customer_128,1031,Female,36-45,32,Single,Florida,East,Engineer,Clothing,1,119,Delivered
+129,Customer_129,1063,Male,26-35,45,Single,Ohio,South,Self-employed,Electronics,4,925,Cancelled
+130,Customer_130,1079,Male,46-55,43,Single,Ohio,South,Student,Clothing,2,400,Delivered
+131,Customer_131,1067,Male,55+,53,Single,Ohio,South,Engineer,Books,2,486,Pending
+132,Customer_132,1099,Female,18-25,36,Married,Ohio,West,Engineer,Clothing,1,722,Pending
+133,Customer_133,1061,Male,18-25,41,Single,New York,West,Self-employed,Home,3,802,Cancelled
+134,Customer_134,1094,Female,46-55,38,Single,Ohio,East,Doctor,Books,2,625,Delivered
+135,Customer_135,1047,Male,26-35,41,Single,Nevada,Central,Student,Home,5,51,Delivered
+136,Customer_136,1019,Male,36-45,57,Single,New York,South,Doctor,Electronics,2,812,Pending
+137,Customer_137,1036,Male,18-25,46,Single,California,South,Artist,Sports,3,841,Cancelled
+138,Customer_138,1019,Male,36-45,56,Married,Nevada,South,Doctor,Beauty,3,75,Delivered
+139,Customer_139,1023,Female,36-45,42,Single,Florida,West,Manager,Toys,2,792,Pending
+140,Customer_140,1038,Female,55+,34,Married,Illinois,South,Self-employed,Electronics,1,573,Delivered
+141,Customer_141,1081,Female,36-45,45,Single,Arizona,West,Self-employed,Beauty,1,728,Pending
+142,Customer_142,1024,Male,46-55,52,Married,Ohio,East,Manager,Home,3,679,Delivered
+143,Customer_143,1028,Female,26-35,47,Single,New York,East,Student,Toys,2,456,Pending
+144,Customer_144,1050,Female,36-45,23,Single,Illinois,East,Manager,Books,5,52,Pending
+145,Customer_145,1003,Female,36-45,44,Married,California,West,Self-employed,Toys,3,238,Delivered
+146,Customer_146,1004,Female,18-25,57,Single,Texas,Central,Engineer,Clothing,1,725,Cancelled
+147,Customer_147,1040,Female,46-55,44,Single,Nevada,East,Manager,Books,4,754,Pending
+148,Customer_148,1089,Male,36-45,53,Single,Arizona,South,Doctor,Beauty,4,415,Delivered
+149,Customer_149,1036,Female,36-45,41,Married,Texas,South,Engineer,Electronics,4,1000,Cancelled
+150,Customer_150,1034,Female,46-55,23,Single,Nevada,Central,Manager,Sports,2,665,Pending
+151,Customer_151,1019,Female,55+,26,Married,New York,North,Manager,Beauty,3,404,Cancelled
+152,Customer_152,1067,Female,46-55,41,Single,New York,South,Engineer,Books,4,68,Delivered
+153,Customer_153,1056,Male,26-35,36,Single,Arizona,North,Artist,Toys,3,669,Pending
+154,Customer_154,1086,Female,36-45,56,Single,Arizona,South,Self-employed,Toys,2,671,Pending
+155,Customer_155,1086,Male,18-25,59,Single,Illinois,North,Doctor,Sports,1,915,Delivered
+156,Customer_156,1073,Female,18-25,23,Married,Arizona,East,Engineer,Clothing,3,479,Delivered
+157,Customer_157,1098,Male,46-55,58,Married,Illinois,North,Artist,Clothing,4,679,Pending
+158,Customer_158,1062,Female,55+,40,Single,Illinois,South,Engineer,Beauty,3,877,Cancelled
+159,Customer_159,1051,Female,26-35,30,Single,California,North,Artist,Books,2,696,Delivered
+160,Customer_160,1083,Female,55+,44,Married,Ohio,West,Engineer,Home,5,635,Cancelled
+161,Customer_161,1046,Female,55+,47,Single,California,North,Artist,Sports,5,187,Cancelled
+162,Customer_162,1023,Female,55+,56,Married,Florida,Central,Self-employed,Beauty,5,33,Pending
+163,Customer_163,1084,Male,26-35,36,Single,Ohio,Central,Self-employed,Sports,1,491,Pending
+164,Customer_164,1077,Female,36-45,49,Married,Arizona,Central,Teacher,Books,4,818,Pending
+165,Customer_165,1035,Male,36-45,28,Single,Florida,North,Artist,Sports,3,340,Cancelled
+166,Customer_166,1096,Male,36-45,31,Married,Ohio,South,Student,Beauty,3,223,Pending
+167,Customer_167,1049,Male,36-45,18,Married,Nevada,North,Self-employed,Books,1,694,Cancelled
+168,Customer_168,1079,Female,26-35,24,Single,Florida,Central,Teacher,Sports,1,696,Delivered
+169,Customer_169,1046,Female,26-35,52,Married,Texas,Central,Self-employed,Sports,1,874,Pending
+170,Customer_170,1099,Male,18-25,33,Married,Ohio,West,Engineer,Electronics,4,613,Delivered
+171,Customer_171,1063,Female,55+,48,Married,Nevada,East,Engineer,Sports,1,57,Delivered
+172,Customer_172,1099,Female,46-55,37,Single,Arizona,North,Engineer,Home,3,21,Pending
+173,Customer_173,1093,Female,55+,33,Single,Nevada,North,Engineer,Toys,1,648,Pending
+174,Customer_174,1065,Female,46-55,25,Single,California,South,Artist,Clothing,5,320,Cancelled
+175,Customer_175,1067,Male,26-35,27,Married,Ohio,North,Doctor,Sports,1,333,Pending
+176,Customer_176,1098,Male,26-35,19,Single,Nevada,East,Doctor,Electronics,3,919,Pending
+177,Customer_177,1004,Male,18-25,36,Single,Arizona,Central,Doctor,Clothing,2,115,Pending
+178,Customer_178,1008,Male,36-45,49,Married,Arizona,South,Artist,Home,3,807,Cancelled
+179,Customer_179,1090,Female,46-55,47,Single,Illinois,East,Engineer,Books,4,561,Delivered
+180,Customer_180,1080,Male,26-35,60,Married,California,West,Engineer,Beauty,2,704,Delivered
+181,Customer_181,1094,Female,46-55,51,Single,California,West,Manager,Toys,4,863,Delivered
+182,Customer_182,1037,Male,18-25,48,Married,Nevada,Central,Manager,Sports,4,897,Delivered
+183,Customer_183,1036,Male,36-45,27,Married,Florida,West,Engineer,Home,1,360,Cancelled
+184,Customer_184,1026,Female,36-45,40,Married,Ohio,South,Artist,Clothing,4,63,Pending
+185,Customer_185,1048,Male,55+,44,Married,Ohio,East,Engineer,Sports,2,995,Cancelled
+186,Customer_186,1019,Female,46-55,39,Single,Illinois,East,Artist,Beauty,3,935,Delivered
+187,Customer_187,1093,Male,18-25,49,Married,Nevada,North,Self-employed,Electronics,2,446,Pending
+188,Customer_188,1051,Male,55+,22,Married,Ohio,West,Artist,Electronics,5,615,Pending
+189,Customer_189,1019,Male,18-25,23,Single,Ohio,West,Student,Electronics,2,192,Delivered
+190,Customer_190,1024,Male,46-55,28,Married,New York,Central,Self-employed,Clothing,2,277,Pending
+191,Customer_191,1080,Female,36-45,58,Married,California,North,Manager,Sports,3,312,Delivered
+192,Customer_192,1033,Male,18-25,56,Married,Arizona,Central,Self-employed,Beauty,4,312,Pending
+193,Customer_193,1011,Male,46-55,59,Single,Ohio,Central,Teacher,Toys,4,445,Delivered
+194,Customer_194,1065,Male,18-25,43,Married,Nevada,South,Manager,Books,5,104,Delivered
+195,Customer_195,1019,Male,26-35,27,Single,Arizona,South,Doctor,Books,5,240,Pending
+196,Customer_196,1006,Female,55+,32,Single,New York,South,Student,Sports,5,685,Cancelled
+197,Customer_197,1083,Male,46-55,41,Married,Florida,Central,Engineer,Clothing,1,411,Cancelled
+198,Customer_198,1049,Male,46-55,30,Married,Ohio,Central,Manager,Toys,5,456,Cancelled
+199,Customer_199,1071,Male,26-35,55,Single,New York,West,Doctor,Sports,4,818,Delivered
+200,Customer_200,1019,Female,55+,27,Married,Florida,Central,Doctor,Sports,2,930,Pending
+201,Customer_201,1038,Male,18-25,56,Single,Florida,West,Self-employed,Beauty,1,932,Cancelled
+202,Customer_202,1043,Male,46-55,58,Single,Florida,South,Self-employed,Sports,3,823,Pending
+203,Customer_203,1085,Male,26-35,59,Married,Arizona,West,Student,Electronics,5,254,Pending
+204,Customer_204,1083,Female,55+,29,Married,New York,West,Artist,Electronics,2,326,Pending
+205,Customer_205,1083,Female,26-35,52,Married,New York,South,Manager,Clothing,4,253,Pending
